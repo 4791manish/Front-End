@@ -21,6 +21,8 @@ for(var i=1; i<=a; i++)
 var a=prompt("enter any value");
 var b=prompt("enter another value");
 for(a; a<b; a++){
-	document.write(a+" ");
+	document.write(a+ " ");
 }
 */
+
+
