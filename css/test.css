@@ -1,0 +1,24 @@
+/*
+File Name: test.css
+Project: Front-End Code Practice
+Description: Program to create a calculator
+Author: Rajesh Kumar Padhy
+*/
+
+#wrapper{
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+button{
+	width: 23%;
+	height: 50px;
+}
+input{
+	display: block;
+	width: 96%;
+	height: 100px;
+	text-align: right;
+	font-size: 2em;
+	vertical-align: bottom;
+}
